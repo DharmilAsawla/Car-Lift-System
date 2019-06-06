@@ -1,11 +1,18 @@
 {
   "summary": {
     "title": "test",
-    "owner": "da"
+    "owner": "da",
+    "description": "csgfsg"
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "fsfsfgs",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "da"
   }
 }
